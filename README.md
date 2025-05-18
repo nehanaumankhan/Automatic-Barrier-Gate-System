@@ -17,7 +17,7 @@ To design a responsive and low-cost automated gate system that can detect approa
 - Servo Motor SG90
 - Jumper Wires
 - Breadboard (optional)
-- USB Cable / 9V Battery
+- USB Cable 
 
 ---
 
@@ -27,5 +27,12 @@ To design a responsive and low-cost automated gate system that can detect approa
 2. If an object is detected within **30 cm**, the **servo motor rotates** to open the gate.
 3. After a brief pause, the **servo rotates back** to close the barrier.
 4. The system waits and repeats this process.
+
+---
+
+## 👨‍💻 Contributors
+
+- **Neha Nauman Khan** (CS-22024)  
+- **Ayat Nauman Khan** (EL-22029)
 
 ---
