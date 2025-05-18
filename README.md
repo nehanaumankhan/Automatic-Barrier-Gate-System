@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Automatic Barrier Gate System 🚗🚧
 
 This project implements an **automatic barrier gate system** using **Arduino Uno**, **Ultrasonic Sensor (HC-SR04)**, and **Servo Motor (SG90)**. It detects vehicles using ultrasonic sensing and opens/closes the barrier arm using a servo motor.
